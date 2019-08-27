@@ -88,6 +88,21 @@ position: absolute;
   }
 
 }
+@media screen and (max-width: 640px) {
+  .sec1 h1{
+    padding-top: 120px;
+    font-size: 70px;
+  }
+
+}
+@media screen and (max-width: 565px) {
+  .sec1 h1{
+    padding-top: 120px;
+    font-size: 60px;
+  }
+
+}
+
 
 
 @import url('https://fonts.googleapis.com/css?family=Merienda:700');
